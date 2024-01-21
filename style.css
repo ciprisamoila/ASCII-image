@@ -1,0 +1,64 @@
+html{
+    padding: 0;
+    margin: 0;
+    background-color: deepskyblue;
+    font-family: 'Courier';
+    color: #fff;
+    font-size: 12pt;
+    line-height: 10pt;
+}
+
+body {
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+canvas {
+    display: inline;
+    border: 5px solid purple;
+    border-radius: 1%;
+}
+
+.myDivs {
+    margin: 20px;
+    display: block;
+}
+
+.mySliderStyle {
+    display: block;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+
+  #colorBtn {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  #bwBtn {
+    background-color: #f44336; /* Red */
+    color: white;
+  }
+
+  #imageBtn {
+    background-color: #2196F3; /* Blue */
+    color: white;
+  }
+
+  #videoBtn {
+    background-color: #FF9800; /* Orange */
+    color: white;
+  }
+  
+
